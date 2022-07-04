@@ -1,6 +1,6 @@
 # portfolio
 
-    Portfolio : Simple Developer portfolio
+    Portfolio : Machine Operator portfolio
 
 ## System Configuration
 
@@ -11,7 +11,7 @@ Please be sure you are using `nodeJS  required`.
 Install the repository locally:
 
 ```bash
-git@github.com:akashsairaja/portfolio.git
+git@github.com:Saurav/portfolio.git
 ```
 
 ## Client Settings
