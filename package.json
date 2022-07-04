@@ -1,15 +1,15 @@
 {
-  "name": "akash-portfolio",
+  "name": "saurav-portfolio",
   "version": "1.0.0",
-  "description": "portfolio , Akash",
+  "description": "portfolio , Saurav",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
   "keywords": [],
-  "author": "akashsairaja@gmail.com",
-  "license": "MIT",
+  "author": "kiit.705137@gmail.com",
+  "license": "KIIT",
   "dependencies": {
     "bootstrap": "^4.5.0",
     "node-sass": "^4.14.1",
