@@ -36,10 +36,6 @@ npm start
 
 Open `http://localhost:3000/` in browser.
 
-![alt text](images/app.gif)
+![alt text](images/p3.jpeg)
 
-##Documentation
-- [React](https://facebook.github.io/react/)
-- [Hooks](https://reactjs.org/docs/hooks-intro.html)
-- [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-- [SASS](https://sass-lang.com/guide)
+
